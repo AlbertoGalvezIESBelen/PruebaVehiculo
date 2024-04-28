@@ -13,7 +13,9 @@ public class MiVehiculoAGG2324 {
     protected double precioIVA;
     protected int stock;
 
-    /* Constructor sin argumentos */
+    /**
+     * Constructor sin parámetros
+     */
     public MiVehiculoAGG2324 ()
     {
     }
